@@ -1,16 +1,9 @@
-# My-Portfolio
 
-<img src="./header2.png" width="100%">
-
-<img src="code.gif" alt="Code GIF" align="right" width="400px" height="360px" style="margin-left: 10px">
-
-- Hey, I am [Shivani Varu], a workaholic, self-taught Fullstack Web and Mobile App (Flutter) Developer. I am passionate about computers and everything relating to it. I love writing clean and quality code, often attaching my emotions with it ❤️ .
+- Hey, I am Shivani Varu, a workaholic, self-taught Software Developer. I am passionate about computers and everything relating to it. I love writing clean and quality code, often attaching my emotions with it ❤️ .
 
   Talking about my other hobbies, I love Travelling, watching Web series nd tv shows and Movies 🍿 and playing badminton .
 
-- Checkout my [Portfolio Site]() and [LinkedIn](https://www.linkedin.com/in/shivani-varu-1012000/) 🖊️ .
-
-- My [Resume](https:///assets/resume.pdf) 📄 .
+- Checkout [LinkedIn](https://www.linkedin.com/in/shivani-varu-1012000/) 🖊️ .
 
 - Always Happy to help if you need any 😁 .
 
